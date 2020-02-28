@@ -15,12 +15,14 @@ bin/
 .sts4-cache
 
 ### IntelliJ IDEA ###
+bin/
 .idea
 *.iws
 *.iml
 *.ipr
 
 ### NetBeans ###
+bin/
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -29,5 +31,6 @@ bin/
 build/
 
 ### VS Code ###
+bin/
 .vscode/
 /.metadata/
